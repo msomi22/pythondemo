@@ -23,6 +23,7 @@ def isPrime(n):
 solution(10, 50)
 ```
 ## 2. Write a Sort function to sort the elements in a list
+## 3. Write a sorting function without using the list.sort function
 nums = [10,5,6,20,15,4,8,2,1]
 print(nums)
 #nums.sort()
