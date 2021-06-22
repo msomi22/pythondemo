@@ -19,3 +19,4 @@ def isPrime(n):
      4. 5%5=0
 """
 solution(10, 50)
+2. Write a Sort function to sort the elements in a list
