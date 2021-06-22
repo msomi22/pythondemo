@@ -1,8 +1,5 @@
 # Python Demo
-
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-# 1. Write a Python Program to print Prime Numbers between 2 numbers
+## 1. Write a Python Program to print Prime Numbers between 2 numbers
 def solution(start, end):
     for n in range(start, end):
         if(isPrime(n)):
