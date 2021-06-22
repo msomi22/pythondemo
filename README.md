@@ -24,6 +24,7 @@ solution(10, 50)
 ```
 ## 2. Write a Sort function to sort the elements in a list
 ## 3. Write a sorting function without using the list.sort function
+```Python
 nums = [10,5,6,20,15,4,8,2,1]
 print(nums)
 #nums.sort()
@@ -36,3 +37,4 @@ for x in range(size):
             nums[x] = nums[y];
             nums[y] = temp;
 print(nums)
+```
