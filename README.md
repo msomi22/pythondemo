@@ -1,6 +1,6 @@
 # Python Demo
 ## 1. Write a Python Program to print Prime Numbers between 2 numbers
-
+```Python
 def solution(start, end):
     for n in range(start, end):
         if(isPrime(n)):
@@ -20,5 +20,5 @@ def isPrime(n):
      4. 5%5=0
 """
 solution(10, 50)
-
+```
 ## 2. Write a Sort function to sort the elements in a list
